@@ -24,7 +24,7 @@ react-router-dom; styled-components; cypress;
 
 1. Clone this repository
 2. Clone the back-end repository at https://github.com/Notye1K/sing-me-a-song-API
-3. Follow instructions to run the back-end
+3. Follow instructions to run the back-end at https://github.com/Notye1K/sing-me-a-song-API/tree/main#readme
 4. Install dependencies
 
  `npm i`
